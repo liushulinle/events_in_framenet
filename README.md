@@ -8,6 +8,6 @@ There are three files:
 
 **framenet_event_result**: Events detected from FrameNet 
 
-**frame_event_mapping**: mappings from frames to events 
+**frame_event_mapping**: mappings from frames to event types
 
 **lu_event_mapping**: mappings from LUs to events 
