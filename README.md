@@ -1,4 +1,3 @@
-# events_in_framenet
 Leveraging FrameNet to Improve Automatic Event Detection
 ============================================
 
